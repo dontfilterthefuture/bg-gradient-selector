@@ -1,0 +1,19 @@
+body {
+  margin: auto 0;
+  padding: auto 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 1em;
+  background: linear-gradient(to right, white, #000000);
+  color: #333333;
+}
+
+h1 {
+  font-size: 5rem;
+  width: 100%;
+}
+
+h3 {
+  font-size: 1.3em;
+}
